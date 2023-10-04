@@ -2,7 +2,7 @@
   <strong >こんにちは、歓迎、良い訪問👋 🇲🇬</strong>
 </p>
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20podman%20exec%20-ti%20arch%20akory%20%22Mbarakaly%20%E2%80%99nareo%20%C3%B4%22;Mbarakaly%20%E2%80%99nareo%20%C3%B4&size=18'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20podman%20Hey%20I'%20m%20Nomena%20Andianiaina%20%22%20%E2%80%99Passionate%20%C3%B4%22;Codeur%20%E2%80%99%20%C3%B4&size=18'>
 </p>
 
 <p align='center'>
