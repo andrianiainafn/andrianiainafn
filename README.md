@@ -3,7 +3,7 @@
 </p>
 
 <p align=center>
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=Hey+I%27m+Nomena+Andrianiaina%2C+Passionate+coder%2C+bugs+are+fun%21&size=18'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=Passionate+coder%2C+bugs+are+fun%21&size=18'>
 </p>
 
 <p align='center'>
