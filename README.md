@@ -3,8 +3,8 @@
 </p>
   
 <p align='center'>
-  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-F252E2?style=for-the-badge&logo=typesript&logoColor=white'/>
-  <img alt='Dart' src='https://img.shields.io/badge/Dart-008080?style=for-the-badge&logo=dart&logoColor=white'/>
+  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-F252E2?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img alt='Dart' src='https://img.shields.io/badge/Dart-F252E2?style=for-the-badge&logo=dart&logoColor=white'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=white'/>
   <img alt='Python' src='https://img.shields.io/badge/Python-008080?style=for-the-badge&logo=python&logoColor=white'/>
 
