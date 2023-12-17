@@ -15,10 +15,10 @@
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F252E2,100:7C3AED&fontColor=dedede&height=160&section=footer&text=Misaotra%20mitsidika...%20&fontSize=20" />
 
-<p align="center">Take a look at my portfolio here : 
+<p align="center">My portfolio :
   <a href="https://codigoelita.vercel.app/">https://codigoelita.vercel.app/</a>
 </p>
-Ways to contact me 😉
+Contact me 😉
 <p align="center">
 
 <a href="mailto:fanomezantsoanomenandrianiaina@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
