@@ -18,7 +18,7 @@
 <p align="center">Have a glance at my portfolio over here:
   <a href="https://codigoelita.vercel.app/">https://codigoelita.vercel.app/</a>
 </p>
-Contact me 😉
+  ways to communicate with me 😉
 <p align="center">
 
 <a href="mailto:fanomezantsoanomenandrianiaina@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
