@@ -18,10 +18,7 @@
 <p align="center">Have a glance at my portfolio over here:
   <a href="https://codigoelita.vercel.app/">https://codigoelita.vercel.app/</a>
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrianiainafn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrianiainafn)](https://github.com/anuraghazra/github-readme-stats)
-  ways to communicate with me 😉
+ways to communicate with me 😉
 <p align="center">
 
 <a href="mailto:fanomezantsoanomenandrianiaina@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
