@@ -21,7 +21,7 @@
 ways to communicate with me 😉
 <p align="center">
 
-<a href="mailto:fanomezantsoanomenandrianiaina@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="mailto:nomenaf.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/andrianiaina-fanomezantsoa-nomena-09b3a8267"><img src="https://img.shields.io/badge/LinkedIn-F252E2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 </p>
