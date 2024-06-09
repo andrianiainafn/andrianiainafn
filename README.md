@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F252E2,100:7C3AED&fontColor=dedede&height=160&section=footer&text=Misaotra%20mitsidika...%20&fontSize=20" />
 
 <p align="center">Have a glance at my portfolio over here:
-  <a href="https://andrianiainafn-portfolio.vercel.app/">https://codigoelita.vercel.app/</a>
+  <a href="https://andrianiainafn-portfolio.vercel.app/">https://andrianiainafn-portfolio.vercel.app</a>
 </p>
 ways to communicate with me 😉
 <p align="center">
